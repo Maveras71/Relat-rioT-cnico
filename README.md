@@ -13,7 +13,7 @@ Clone o repositório:
 bash
 
 Copiar
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/Maveras71/Relat-rioT-cnico
 cd seu-repositorio
 
 Copiar
@@ -52,4 +52,4 @@ Autores e Colaboradores
 [Seu Nome]: Implementação do modelo de regressão linear e análise exploratória de dados.
 [Nome do Colaborador]: Desenvolvimento de visualizações e documentação do projeto.
 Última atualização
-Quarta-feira, 16 nov. 2024, 20:20
+Quarta-feira, 16 nov. 2024, 20:27
