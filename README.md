@@ -1,6 +1,7 @@
 # README.md
 Nome do Projeto
 RELATÓRIO TÉCNICO: IMPLEMENTAÇÃO E ANÁLISE DO ALGORITMO DE REGRESSÃO LINEAR
+RENAN ARAUJO SANTIAGO
 
 Descrição do Projeto
 Este projeto tem como objetivo analisar os fatores que influenciam os custos de planos de saúde utilizando um modelo de regressão linear. Através da aplicação de técnicas de análise exploratória de dados, o projeto busca identificar padrões e correlações significativas, proporcionando insights valiosos sobre as despesas médicas.
@@ -14,8 +15,6 @@ bash
 Copiar
 git clone https://github.com/seu-usuario/seu-repositorio.git
 cd seu-repositorio
-Crie um ambiente virtual (opcional, mas recomendado):
-bash
 
 Copiar
 python -m venv venv
@@ -53,4 +52,4 @@ Autores e Colaboradores
 [Seu Nome]: Implementação do modelo de regressão linear e análise exploratória de dados.
 [Nome do Colaborador]: Desenvolvimento de visualizações e documentação do projeto.
 Última atualização
-Quarta-feira, 16 nov. 2024, 20:17
+Quarta-feira, 16 nov. 2024, 20:20
